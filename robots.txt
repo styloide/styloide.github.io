@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://styloide.github.io/sitemap
+Sitemap: https://styloide.github.io/app/sitemap
+Sitemap: https://styloide.github.io/assets/sitemap
+Sitemap: https://styloide.github.io/css/sitemap
+Sitemap: https://styloide.github.io/includes/sitemap
+Sitemap: https://styloide.github.io/item/sitemap
+Sitemap: https://styloide.github.io/src/sitemap
